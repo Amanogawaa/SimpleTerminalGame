@@ -1,0 +1,15 @@
+/home/bakingsoda/Public/development/sample/bin/Debug/net7.0/sample
+/home/bakingsoda/Public/development/sample/bin/Debug/net7.0/sample.deps.json
+/home/bakingsoda/Public/development/sample/bin/Debug/net7.0/sample.runtimeconfig.json
+/home/bakingsoda/Public/development/sample/bin/Debug/net7.0/sample.dll
+/home/bakingsoda/Public/development/sample/bin/Debug/net7.0/sample.pdb
+/home/bakingsoda/Public/development/sample/obj/Debug/net7.0/sample.csproj.AssemblyReference.cache
+/home/bakingsoda/Public/development/sample/obj/Debug/net7.0/sample.GeneratedMSBuildEditorConfig.editorconfig
+/home/bakingsoda/Public/development/sample/obj/Debug/net7.0/sample.AssemblyInfoInputs.cache
+/home/bakingsoda/Public/development/sample/obj/Debug/net7.0/sample.AssemblyInfo.cs
+/home/bakingsoda/Public/development/sample/obj/Debug/net7.0/sample.csproj.CoreCompileInputs.cache
+/home/bakingsoda/Public/development/sample/obj/Debug/net7.0/sample.dll
+/home/bakingsoda/Public/development/sample/obj/Debug/net7.0/refint/sample.dll
+/home/bakingsoda/Public/development/sample/obj/Debug/net7.0/sample.pdb
+/home/bakingsoda/Public/development/sample/obj/Debug/net7.0/sample.genruntimeconfig.cache
+/home/bakingsoda/Public/development/sample/obj/Debug/net7.0/ref/sample.dll

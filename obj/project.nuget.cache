@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D0y9p+ODx9sduoSWiyglyw+ANYwwkarGvPMUvHj5qI1Zkew1JCKEx7jzsnb+5GqEkukDnGDyBp3vfMzP0q7W1A==",
+  "success": true,
+  "projectFilePath": "/home/bakingsoda/Public/development/sample/sample.csproj",
+  "expectedPackageFiles": [
+    "/home/bakingsoda/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
